@@ -1,16 +1,4 @@
 # kp_ahmadbakeri_note_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sebuah Flutter project untuk unjuk keterampilan dalam pelatihan Alterra Academy Batch 4 - Teknik Membuat Aplikasi Mobile dengan Flutter | Prakerja 2023
+Design UI implemented dan improvisasi dari Figma Community https://www.figma.com/community/file/1014161465589596715/Notes-App-UI
